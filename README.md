@@ -1,2 +1,2 @@
 # ProjetosKotlin
-Desenvolvendo projetos em Kotlin
+Aprendendo a linguagem Kotlin.
